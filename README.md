@@ -1,5 +1,5 @@
 # netstatPlus
-An Simple C# Written Libary to get all Active connections (TCP/UDP)
+An Simple C# Written Libary to get all Active connections (TCP)
 
 
 ![image](https://media.discordapp.net/attachments/931150864729657395/948669503322066964/unknown.png?width=1440&height=361)
